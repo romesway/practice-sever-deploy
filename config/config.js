@@ -1,6 +1,6 @@
 module.exports = {
 	development: {
-		username: 'root',
+		username: 'yuil',
 		password: process.env.DATABASE_PASSWORD,
 		database: 'shortly',
 		host: 'localhost',
